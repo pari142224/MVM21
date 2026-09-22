@@ -15,7 +15,7 @@ st.markdown("""
 <style>
 :root {
     --navy: #0b2450;
-    --blue: #1677ff;
+    --red: #1677ff;
     --light: #f4f7fb;
     --border: #dfe6f0;
     --text: #16213a;
